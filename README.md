@@ -19,5 +19,5 @@ The experiment combine two super powerful features:
 ```shell
 > $ npm start
 ```     
-Open the web browser to `http://localhost:8888/`, enjoy!
+Open the web browser to `http://localhost:8888/`, inspect the network logs and enjoy!
 
